@@ -41,6 +41,4 @@ My goal is to integrate my management and business experience with technological
 <img width="50" height="50" alt="CSS" 
      src="https://github.com/user-attachments/assets/bef9d1bb-f97a-421f-bae6-c4f8c68fd7a8" 
      style="padding:0 10px;" />
-<img width="50" height="50" alt="Node.js" 
-     src="https://github.com/user-attachments/assets/b8665e91-3b3f-40fb-8214-1d5f759c22c9" 
-     style="padding:0 10px;" />
+
