@@ -45,4 +45,4 @@ My goal is to integrate my management and business experience with technological
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvelloso&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvellosoborges&layout=compact&show_icons=true&theme=buefy)](https://github.com/rrafaelvellosoborges/github-readme-stats)
