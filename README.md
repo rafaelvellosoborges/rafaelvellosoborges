@@ -12,12 +12,18 @@ My goal is to integrate my management and business experience with technological
 <br>
 <br>
 <strong>Connect With me:</strong>
-<p align="left">
-  <a href="https://www.instagram.com/rafaelvellosoborges">
-    <img width="40" height="40" src="https://raw.githubusercontent.com/SEU-USUARIO/REPO/main/imagens/instagram.png" alt="Instagram" />
+<p align="center">
+  <a href="https://www.instagram.com/rafaelvellosoborges" target="_blank">
+    <img src="https://raw.githubusercontent.com/SEU-USUARIO/REPO/main/imagens/instagram.png" 
+         alt="Instagram" width="50" height="50" style="margin-right: 20px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)'" 
+         onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://www.linkedin.com/in/rafaelvelloso/">
-    <img width="40" height="40" src="https://raw.githubusercontent.com/SEU-USUARIO/REPO/main/imagens/linkedin.png" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/rafaelvelloso/" target="_blank">
+    <img src="https://raw.githubusercontent.com/SEU-USUARIO/REPO/main/imagens/linkedin.png" 
+         alt="LinkedIn" width="50" height="50" style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)'" 
+         onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
 <br>
