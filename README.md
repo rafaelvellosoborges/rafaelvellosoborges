@@ -18,11 +18,12 @@ My goal is to integrate my management and business experience with technological
 
 <table>
 <tr>
-  <td valign="top">
+  <!-- Redes sociais -->
+  <td valign="top" style="text-align:center;">
     <a href="https://www.instagram.com/rafaelvellosoborges" target="_blank">
       <img width="50" height="50" alt="Instagram" 
            src="https://github.com/user-attachments/assets/6825fdc9-2249-40bd-8f22-7fa6ab540a05" 
-           style="padding-bottom: 15px;" />
+           style="margin-bottom: 15px;" />
     </a>
     <br>
     <a href="https://www.linkedin.com/in/rafaelvelloso/" target="_blank">
@@ -30,7 +31,9 @@ My goal is to integrate my management and business experience with technological
            src="https://github.com/user-attachments/assets/d90b1bab-cd7d-402b-acec-d77dc9ae7064" />
     </a>
   </td>
-  <td style="padding-left: 40px;">
+
+  <!-- Tecnologias + Estatísticas -->
+  <td style="padding-left: 50px; vertical-align:top;">
     <strong>Languages and Tools:</strong>
     <p>
       <img width="50" height="50" alt="JavaScript" 
@@ -50,20 +53,32 @@ My goal is to integrate my management and business experience with technological
     <strong>Stats:</strong>
     <table style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; width: 100%; text-align: left;">
       <tr>
-        <td>HTML</td>
-        <td>🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%</td>
+        <td style="width: 80px;">HTML</td>
+        <td style="background-color:#eee; border-radius:10px;">
+          <div style="width: 80%; background-color:#f06529; height:15px; border-radius:10px;"></div>
+        </td>
+        <td>80%</td>
       </tr>
       <tr>
         <td>CSS</td>
-        <td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%</td>
+        <td style="background-color:#eee; border-radius:10px;">
+          <div style="width: 70%; background-color:#2965f1; height:15px; border-radius:10px;"></div>
+        </td>
+        <td>70%</td>
       </tr>
       <tr>
         <td>JavaScript</td>
-        <td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%</td>
+        <td style="background-color:#eee; border-radius:10px;">
+          <div style="width: 70%; background-color:#f7df1e; height:15px; border-radius:10px;"></div>
+        </td>
+        <td>70%</td>
       </tr>
       <tr>
         <td>Node.js</td>
-        <td>🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%</td>
+        <td style="background-color:#eee; border-radius:10px;">
+          <div style="width: 60%; background-color:#3c873a; height:15px; border-radius:10px;"></div>
+        </td>
+        <td>60%</td>
       </tr>
     </table>
   </td>
