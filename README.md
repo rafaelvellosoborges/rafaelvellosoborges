@@ -45,6 +45,4 @@ My goal is to integrate my management and business experience with technological
 
 <br>
 
-## 📊 GitHub Stats
-
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelvelloso&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvelloso&layout=compact&theme=tokyonight)
