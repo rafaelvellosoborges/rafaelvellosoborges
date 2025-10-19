@@ -32,7 +32,7 @@ My goal is to integrate my management and business experience with technological
     </a>
   </td>
 
-  <!-- Tecnologias + Estatísticas -->
+  <!-- Tecnologias -->
   <td style="padding-left: 50px; vertical-align:top;">
     <strong>Languages and Tools:</strong>
     <p>
@@ -49,38 +49,6 @@ My goal is to integrate my management and business experience with technological
            src="https://github.com/user-attachments/assets/b8665e91-3b3f-40fb-8214-1d5f759c22c9" 
            style="padding-left: 10px; padding-right: 10px;" />
     </p>
-
-    <strong>Stats:</strong>
-    <table style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; width: 100%; text-align: left;">
-      <tr>
-        <td style="width: 80px;">HTML</td>
-        <td style="background-color:#eee; border-radius:10px;">
-          <div style="width: 80%; background-color:#f06529; height:15px; border-radius:10px;"></div>
-        </td>
-        <td>80%</td>
-      </tr>
-      <tr>
-        <td>CSS</td>
-        <td style="background-color:#eee; border-radius:10px;">
-          <div style="width: 70%; background-color:#2965f1; height:15px; border-radius:10px;"></div>
-        </td>
-        <td>70%</td>
-      </tr>
-      <tr>
-        <td>JavaScript</td>
-        <td style="background-color:#eee; border-radius:10px;">
-          <div style="width: 70%; background-color:#f7df1e; height:15px; border-radius:10px;"></div>
-        </td>
-        <td>70%</td>
-      </tr>
-      <tr>
-        <td>Node.js</td>
-        <td style="background-color:#eee; border-radius:10px;">
-          <div style="width: 60%; background-color:#3c873a; height:15px; border-radius:10px;"></div>
-        </td>
-        <td>60%</td>
-      </tr>
-    </table>
   </td>
 </tr>
 </table>
