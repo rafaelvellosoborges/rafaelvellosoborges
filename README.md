@@ -16,39 +16,31 @@ My goal is to integrate my management and business experience with technological
 
 ## Connect With Me
 
-<table>
-<tr>
-  <!-- Redes sociais -->
-  <td valign="top" style="text-align:center;">
-    <a href="https://www.instagram.com/rafaelvellosoborges" target="_blank">
-      <img width="50" height="50" alt="Instagram" 
-           src="https://github.com/user-attachments/assets/6825fdc9-2249-40bd-8f22-7fa6ab540a05" 
-           style="margin-bottom: 15px;" />
-    </a>
-    <br>
-    <a href="https://www.linkedin.com/in/rafaelvelloso/" target="_blank">
-      <img width="50" height="50" alt="LinkedIn" 
-           src="https://github.com/user-attachments/assets/d90b1bab-cd7d-402b-acec-d77dc9ae7064" />
-    </a>
-  </td>
+<a href="https://www.instagram.com/rafaelvellosoborges" target="_blank">
+  <img width="50" height="50" alt="Instagram" 
+       src="https://github.com/user-attachments/assets/6825fdc9-2249-40bd-8f22-7fa6ab540a05" 
+       style="display:block; margin-bottom:15px;" />
+</a>
 
-  <!-- Tecnologias -->
-  <td style="padding-left: 50px; vertical-align:top;">
-    <strong>Languages and Tools:</strong>
-    <p>
-      <img width="50" height="50" alt="JavaScript" 
-           src="https://github.com/user-attachments/assets/fb5c9df8-edef-4684-becc-6ed3991a56a0" 
-           style="padding-left: 10px; padding-right: 10px;" />
-      <img width="50" height="50" alt="HTML" 
-           src="https://github.com/user-attachments/assets/0361cbce-10d6-44d3-bd1d-61df9263e43b" 
-           style="padding-left: 10px; padding-right: 10px;" />
-      <img width="50" height="50" alt="CSS" 
-           src="https://github.com/user-attachments/assets/bef9d1bb-f97a-421f-bae6-c4f8c68fd7a8" 
-           style="padding-left: 10px; padding-right: 10px;" />
-      <img width="50" height="50" alt="Node.js" 
-           src="https://github.com/user-attachments/assets/b8665e91-3b3f-40fb-8214-1d5f759c22c9" 
-           style="padding-left: 10px; padding-right: 10px;" />
-    </p>
-  </td>
-</tr>
-</table>
+<a href="https://www.linkedin.com/in/rafaelvelloso/" target="_blank">
+  <img width="50" height="50" alt="LinkedIn" 
+       src="https://github.com/user-attachments/assets/d90b1bab-cd7d-402b-acec-d77dc9ae7064" 
+       style="display:block;" />
+</a>
+
+<br>
+
+## Languages and Tools
+
+<img width="50" height="50" alt="JavaScript" 
+     src="https://github.com/user-attachments/assets/fb5c9df8-edef-4684-becc-6ed3991a56a0" 
+     style="padding:0 10px;" />
+<img width="50" height="50" alt="HTML" 
+     src="https://github.com/user-attachments/assets/0361cbce-10d6-44d3-bd1d-61df9263e43b" 
+     style="padding:0 10px;" />
+<img width="50" height="50" alt="CSS" 
+     src="https://github.com/user-attachments/assets/bef9d1bb-f97a-421f-bae6-c4f8c68fd7a8" 
+     style="padding:0 10px;" />
+<img width="50" height="50" alt="Node.js" 
+     src="https://github.com/user-attachments/assets/b8665e91-3b3f-40fb-8214-1d5f759c22c9" 
+     style="padding:0 10px;" />
