@@ -32,13 +32,13 @@ My goal is to integrate my management and business experience with technological
 
 ## Languages and Tools
 
-<img width="50" height="50" alt="JavaScript" 
-     src="https://github.com/user-attachments/assets/fb5c9df8-edef-4684-becc-6ed3991a56a0" 
-     style="padding:0 10px;" />
+
 <img width="50" height="50" alt="HTML" 
      src="https://github.com/user-attachments/assets/0361cbce-10d6-44d3-bd1d-61df9263e43b" 
      style="padding:0 10px;" />
 <img width="50" height="50" alt="CSS" 
      src="https://github.com/user-attachments/assets/bef9d1bb-f97a-421f-bae6-c4f8c68fd7a8" 
      style="padding:0 10px;" />
-
+<img width="50" height="50" alt="JavaScript" 
+     src="https://github.com/user-attachments/assets/fb5c9df8-edef-4684-becc-6ed3991a56a0" 
+     style="padding:0 10px;" />
