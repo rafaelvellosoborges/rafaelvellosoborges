@@ -21,7 +21,7 @@ My goal is to integrate my management and business experience with technological
        src="https://github.com/user-attachments/assets/6825fdc9-2249-40bd-8f22-7fa6ab540a05" 
        style="display:block; margin-bottom:15px;" />
 </a>
-
+<br>
 <a href="https://www.linkedin.com/in/rafaelvelloso/" target="_blank">
   <img width="50" height="50" alt="LinkedIn" 
        src="https://github.com/user-attachments/assets/d90b1bab-cd7d-402b-acec-d77dc9ae7064" 
