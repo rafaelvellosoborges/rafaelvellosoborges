@@ -13,6 +13,10 @@ My goal is to integrate my management and business experience with technological
 📩 Open to connections, collaborations, and opportunities in the technology field, where I can add value, continuously grow, and contribute to impactful solutions.
 
 <br>
+- 💬 Ask me about anything <a>Here href="https://wa.me/5512981122726" target="_blank"> </a>
+
+<br>
+<br>
 
 ## Connect With Me
 
