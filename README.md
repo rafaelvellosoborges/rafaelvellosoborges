@@ -13,18 +13,15 @@ My goal is to integrate my management and business experience with technological
 📩 Open to connections, collaborations, and opportunities in the technology field, where I can add value, continuously grow, and contribute to impactful solutions.
 
 <br>
-- 💬 Ask me about anything <a>Here href="https://wa.me/5512981122726" target="_blank"> </a>
 
-<br>
-<br>
 
-## Connect With Me
+## Connect With Me and Ask me about anything
 
 <a href="https://www.instagram.com/rafaelvellosoborges" target="_blank">
   <img width="50" height="50" alt="Instagram" 
        src="https://github.com/user-attachments/assets/6825fdc9-2249-40bd-8f22-7fa6ab540a05" 
        style="display:block; margin-bottom:15px;" />
-</a>
+</a> 
 <br>
 <a href="https://www.linkedin.com/in/rafaelvelloso/" target="_blank">
   <img width="50" height="50" alt="LinkedIn" 
