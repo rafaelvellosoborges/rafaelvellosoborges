@@ -42,3 +42,9 @@ My goal is to integrate my management and business experience with technological
 <img width="50" height="50" alt="JavaScript" 
      src="https://github.com/user-attachments/assets/fb5c9df8-edef-4684-becc-6ed3991a56a0" 
      style="padding:0 10px;" />
+
+<br>
+
+## 📊 GitHub Stats
+
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelvelloso&show_icons=true&theme=tokyonight)
