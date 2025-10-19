@@ -28,6 +28,7 @@ My goal is to integrate my management and business experience with technological
              padding-left: 20px;
              padding-right: 20px;
          " />
+    <br><br><br><br><br><br>
   <img width="22" height="auto" alt="image-javascript" src="https://github.com/user-attachments/assets/fb5c9df8-edef-4684-becc-6ed3991a56a0" />
   <img width="22" height="auto" alt="image-html" src="https://github.com/user-attachments/assets/0361cbce-10d6-44d3-bd1d-61df9263e43b" />
   <img width="22" height="auto" alt="image-css" src="https://github.com/user-attachments/assets/bef9d1bb-f97a-421f-bae6-c4f8c68fd7a8" />
