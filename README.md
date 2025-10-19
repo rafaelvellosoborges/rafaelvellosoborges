@@ -14,16 +14,16 @@ My goal is to integrate my management and business experience with technological
 <strong>Connect With me:</strong>
 <p align="center">
   <a href="https://www.instagram.com/rafaelvellosoborges" target="_blank">
-    <img width="22" height="auto" alt="image" src="https://github.com/user-attachments/assets/6825fdc9-2249-40bd-8f22-7fa6ab540a05" />
+    <img width="22" height="auto" alt="Instagram" 
+         src="https://github.com/user-attachments/assets/6825fdc9-2249-40bd-8f22-7fa6ab540a05" 
+         style="padding: 0 10px;" />
   </a>
   <a href="https://www.linkedin.com/in/rafaelvelloso/" target="_blank">
-    <img width="22" height="auto" alt="image" src="https://github.com/user-attachments/assets/d90b1bab-cd7d-402b-acec-d77dc9ae7064" />
+    <img width="22" height="auto" alt="LinkedIn" 
+         src="https://github.com/user-attachments/assets/d90b1bab-cd7d-402b-acec-d77dc9ae7064" 
+         style="padding: 0 10px;" />
   </a>
 </p>
-<br>
-<br>
-<storng>Languages and tools:</storng>
-<p>
   <img width="22" height="auto" alt="image-javascript" src="https://github.com/user-attachments/assets/fb5c9df8-edef-4684-becc-6ed3991a56a0" />
   <img width="22" height="auto" alt="image-html" src="https://github.com/user-attachments/assets/0361cbce-10d6-44d3-bd1d-61df9263e43b" />
   <img width="22" height="auto" alt="image-css" src="https://github.com/user-attachments/assets/bef9d1bb-f97a-421f-bae6-c4f8c68fd7a8" />
