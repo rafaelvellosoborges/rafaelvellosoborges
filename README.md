@@ -34,31 +34,4 @@ My goal is to integrate my management and business experience with technological
 ## Languages and Tools
 
 
-<img width="50" height="50" alt="HTML" 
-     src="https://github.com/user-attachments/assets/0361cbce-10d6-44d3-bd1d-61df9263e43b" 
-     style="padding:0 10px;" />
-<img width="50" height="50" alt="CSS" 
-     src="https://github.com/user-attachments/assets/bef9d1bb-f97a-421f-bae6-c4f8c68fd7a8" 
-     style="padding:0 10px;" />
-<img width="50" height="50" alt="JavaScript" 
-     src="https://github.com/user-attachments/assets/fb5c9df8-edef-4684-becc-6ed3991a56a0" 
-     style="padding:0 10px;" />
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <!-- Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" />
-
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" />
-
-  <!-- Streak -->
-  <img height="180em" src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=radical" />
-
-</div>
-
 <p align="left"> <!-- Frontend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/> <!-- Backend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/> <!-- Database --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/> <!-- Tools --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/> </p>
